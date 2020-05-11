@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-11T07:27:12.331Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="-zm_UBX15EzlQ2oCcT84" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-11T07:27:24.698Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="9Yg5vBjzBGDHTaOQAVhT" version="13.0.9" type="github">
   <diagram id="a6d8qoQg7wmettdPWS81" name="第 1 页">
     <mxGraphModel dx="1242" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="qAdTjsP8O6FM5Z1obVZ--30" value="资源模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A1FF14;" parent="1" vertex="1">
           <mxGeometry x="80" y="650" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jSEHMp3xiI0pvjKX2GBw-5" value="获取资源，执行回放逻辑" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qAdTjsP8O6FM5Z1obVZ--37" edge="1">
+        <mxCell id="jSEHMp3xiI0pvjKX2GBw-5" value="获取资源，执行回放逻辑" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.444;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qAdTjsP8O6FM5Z1obVZ--37" target="qAdTjsP8O6FM5Z1obVZ--30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="720" as="targetPoint" />
           </mxGeometry>
