@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T02:30:30.802Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="Sr6soOAbBcIRE7B0o8Wk" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-12T02:31:15.793Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="cj3k2b1tF__nJzi34W4u" version="13.0.9" type="github">
   <diagram id="a6d8qoQg7wmettdPWS81" name="第 1 页">
     <mxGraphModel dx="1242" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,8 +134,8 @@
             <mxPoint x="230" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvgwfU8hFtTpQq32b1yH-1" value="申请资源，是否充足" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="674" width="80" height="80" as="geometry" />
+        <mxCell id="yvgwfU8hFtTpQq32b1yH-1" value="资源，是否&lt;br&gt;充足" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="671" width="80" height="85" as="geometry" />
         </mxCell>
         <mxCell id="yvgwfU8hFtTpQq32b1yH-7" value="丢回任务，并更改任务状态，计数器+1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="575" width="220" height="20" as="geometry" />
